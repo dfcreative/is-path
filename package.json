@@ -24,5 +24,8 @@
     "is-absolute": "^0.2.6",
     "is-relative": "^0.2.1",
     "is-url": "^1.2.2"
+  },
+  "devDependencies": {
+    "is-windows": "^1.0.1"
   }
 }
