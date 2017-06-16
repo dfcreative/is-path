@@ -13,4 +13,4 @@ isPath('../something') //true
 isPath('https://github.com/xyz') //false
 ```
 
-If you find edge case, please address [issues]().
+If you find edge case, please address [issues](https://github.com/dfcreative/is-path/issues).
