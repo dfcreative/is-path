@@ -1,4 +1,4 @@
-# is-path  [![stable](https://img.shields.io/badge/stability-unstable-brightgreen.svg)](http://github.com/badges/stability-badges) [![Build Status](https://img.shields.io/travis/dfcreative/is-path.svg)](https://travis-ci.org/dfcreative/is-path)
+# is-path  [![stable](https://img.shields.io/badge/stability-stable-brightgreen.svg)](http://github.com/badges/stability-badges) [![Build Status](https://img.shields.io/travis/dfcreative/is-path.svg)](https://travis-ci.org/dfcreative/is-path)
 
 Check if string is relative or absolute path and not URL.
 
